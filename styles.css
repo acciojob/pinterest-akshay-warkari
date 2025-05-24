@@ -6,11 +6,14 @@
 	allign-items:center;
 	flex-direction:column;
 	text-align:center;
-	object-fit:cover;
+
 }
 .button{
 	background-color: #ff4757;
 	color: white;
 	padding:5px;
 	border-radius:5px;
+}
+.hero img{
+	object-fit:cover;
 }
